@@ -1,4 +1,6 @@
 # ML_DL_AI
+tensor flow serving: 
+https://www.tensorflow.org/tfx/serving/architecture
 
 https://www.devopsschool.com/certification/master-machine-learning-course.html
 https://www.devopsschool.com/certification/master-in-deep-learning.html
