@@ -7,3 +7,7 @@ https://www.devopsschool.com/certification/master-in-deep-learning.html
 https://www.devopsschool.com/courses/artificial-intelligence/
 # Projects
 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/blob/main/README.md
+
+
+https://www.youtube.com/watch?v=0e0z28wAWfg&t=2s
+https://www.youtube.com/watch?v=Rx5lxRIVLGk
