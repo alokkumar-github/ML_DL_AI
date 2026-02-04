@@ -1,4 +1,20 @@
-# ML_DL_AI
+# ML_DL_AI - RoadMap
+math-for-machine-learning(math & statistics): https://github.com/codebasics/math-for-machine-learning
+python-pandas,numpy,matplotlib: 
+machine learning: 
+Deep learning (artificial neural network-ANN, convolutional neural network-CNN, recurrent neural network-RNN): 
+NLP: 
+MLOps:
+
+Additional skills: 
+Pyspark, Hadoop, Distributed Computing
+Docker k8s
+CI (Continuous Integration) & CD (Continuous Delivery) fundamentals, Jenkins
+Version control using Git
+FastApi, Tensorflow serving: To build http servers around the trained models
+NoSQL databases such as MongoDB
+
+
 tensor flow serving: 
 https://www.tensorflow.org/tfx/serving/architecture
 
