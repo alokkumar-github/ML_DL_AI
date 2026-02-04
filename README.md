@@ -14,6 +14,21 @@ Version control using Git
 FastApi, Tensorflow serving: To build http servers around the trained models
 NoSQL databases such as MongoDB
 
+graph TD
+    A[Start Here] --> B{Choose Your Path}
+    B -->|Traditional Route| C[Data Science First]
+    B -->|Modern Route| D[Generative AI First]
+    B -->|Advanced Route| E[All Three Parallel]
+    
+    C --> F[Master DS/ML/CV/NLP]
+    F --> G[Add Gen AI]
+    G --> H[Learn Agentic AI]
+    
+    D --> I[Master Gen AI]
+    I --> J[Add Agentic AI]
+    J --> K[Learn DS Fundamentals]
+    
+    E --> L[Comprehensive AI Expert]
 
 tensor flow serving: 
 https://www.tensorflow.org/tfx/serving/architecture
