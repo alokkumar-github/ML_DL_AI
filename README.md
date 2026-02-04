@@ -5,6 +5,10 @@ machine learning:
 Deep learning (artificial neural network-ANN, convolutional neural network-CNN, recurrent neural network-RNN): 
 NLP: 
 MLOps:
+GenAI:
+AgenticAI:
+Comprehensive AI:
+
 
 Additional skills: 
 Pyspark, Hadoop, Distributed Computing
